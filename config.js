@@ -1,13 +1,13 @@
 const config = {
-  "ownerID": "520119952850681858", //kendi IDınızı yazınız
-  "admins": ["520119952850681858"],
-  "support": ["520119952850681858"],
-  "token": "NTIyMDA1NzU4NDAxODM5MTE2.Dw_AAg.XgDY10UClZE4sltHii5L0FwE-8g", //botunuzun tokenini yazınız
+  "ownerID": "520231857564942336", //kendi IDınızı yazınız
+  "admins": ["520231857564942336"],
+  "support": ["520231857564942336"],
+  "token": "NTQ4NTIwMDkzMzExODI3OTY4.D1GhNA.WJDWUk_kRfVawsiJrpnn3PH6YN4", //botunuzun tokenini yazınız
   "dashboard" : {
-    "oauthSecret": "Im8Jq_m4SlSHwd191W2A_ickDXv-AEii", //botunuzun secretini yazınız 
+    "oauthSecret": "S8XtIydVysKj3k9K55qhIc63s_2d1t68", //botunuzun secretini yazınız 
     "callbackURL": `https://sonmez--tv.glitch.me/callback`,//site URLnizi yazınız /callback kısmını silmeyiniz!
     "sessionSecret": "xyzxyz", //kalsın
-    "domain": "https://sonmez--tv.glitch.me/" //site URLnizi yazınız!
+    "domain": "www.youtube.com/" //site URLnizi yazınız!
   }
 };
 
